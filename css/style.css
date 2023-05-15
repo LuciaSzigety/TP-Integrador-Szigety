@@ -1,0 +1,66 @@
+.d-block {
+    filter: brightness(50%);
+}
+
+.carousel-caption {
+    text-align:right;
+}
+
+.parrafo {
+    text-align:center;
+}
+
+.caja {
+    flex-direction: row;
+    background-color: dimgray;
+}
+
+.nav {
+    background-color: #1D4257;
+    height: 80px;
+}
+
+.nav-link {
+    color: whitesmoke;
+}
+
+.btn-outline-secondary {
+    color: whitesmoke
+}
+
+.parrafo {
+    margin-top: 10px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+h3 {
+    padding-top: 0px;
+    margin-top: 0px;
+}
+
+.card {
+    margin: 10px;
+}
+
+#lugaryhora {
+    color: whitesmoke;
+    padding: 20px;
+}
+
+.nav-item {
+    margin-top: 20px;
+}
+
+#formulario {
+    display: flex;
+    justify-content: center;
+}
+
+.row {
+    margin:10px;
+}
+
+#comprar {
+    border: none;
+}
